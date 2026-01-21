@@ -1,23 +1,3 @@
-✨
-V2 Available Now!Redesigned UI · More features · Faster performance
-Upgrade to V2 →
-✕
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-23937
-Fork on GitHub
-8221
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Mohamed Mahmoud</h1>
 <h3 align="center">Hello, My name is Mohamed, and I am a final-year student at the Faculty of Computers and Artificial Intelligence, specializing in Artificial Intelligence. I have experience in AI programming, and I studied Web Development at ITI. Currently, I am studying an Artificial Intelligence Diploma at Instant, where I have studied Machine Learning and Natural Language Processing (NLP). I am passionate about AI and continuously working on improving my technical skills through practical projects.</h3>
 
@@ -50,28 +30,3 @@ preview
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedmahmoud136&show_icons=true&locale=en&layout=compact" alt="mohamedmahmoud136" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedmahmoud136&" alt="mohamedmahmoud136" /></p>
-
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee

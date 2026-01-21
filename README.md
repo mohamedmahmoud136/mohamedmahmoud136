@@ -19,7 +19,7 @@ download backup
 
 preview
 <h1 align="center">Hi 👋, I'm Mohamed Mahmoud</h1>
-<h3 align="center">Hello, My name is Ahmed, and I am a final-year student at the Faculty of Computers and Artificial Intelligence, specializing in Artificial Intelligence. I have experience in AI programming, and I studied Web Development at ITI. Currently, I am studying an Artificial Intelligence Diploma at Instant, where I have studied Machine Learning and Natural Language Processing (NLP). I am passionate about AI and continuously working on improving my technical skills through practical projects.</h3>
+<h3 align="center">Hello, My name is Mohamed, and I am a final-year student at the Faculty of Computers and Artificial Intelligence, specializing in Artificial Intelligence. I have experience in AI programming, and I studied Web Development at ITI. Currently, I am studying an Artificial Intelligence Diploma at Instant, where I have studied Machine Learning and Natural Language Processing (NLP). I am passionate about AI and continuously working on improving my technical skills through practical projects.</h3>
 
 - 🔭 I’m currently working on **data science**
 

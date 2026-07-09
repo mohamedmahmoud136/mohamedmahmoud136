@@ -40,7 +40,7 @@ A full-stack university faculty management portal, deployed and live in producti
 - **Deployment:** Hostinger VPS (Ubuntu 24.04), PM2, Nginx, Let's Encrypt SSL
 - **Live:** [sciencesmartportal.online](https://sciencesmartportal.online)
 
-#### 🛒 [MVP Shop (Montaseer)](https://github.com/mohamedmahmoud136/MVP-SHOP-Multi-Tenant-SaaS-)
+#### 🛒 [MVP Shop (Multi-Tenant-SaaS)](https://github.com/mohamedmahmoud136/MVP-SHOP-Multi-Tenant-SaaS-)
 A multi-tenant SaaS platform that lets e-commerce store owners build and manage their own online stores.
 - **Stack:** Next.js, Express, MongoDB
 - **Features:** Multi-role RBAC (Admin, Owner, Customer, Guest), subscription management, store customization

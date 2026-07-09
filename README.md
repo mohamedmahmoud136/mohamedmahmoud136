@@ -1,32 +1,65 @@
-<h1 align="center">Hi 👋, I'm Mohamed Mahmoud</h1>
-<h3 align="center">Hello, My name is Mohamed, and I am a final-year student at the Faculty of Computers and Artificial Intelligence, specializing in Artificial Intelligence. I have experience in AI programming, and I studied Web Development at ITI. Currently, I am studying an Artificial Intelligence Diploma at Instant, where I have studied Machine Learning and Natural Language Processing (NLP). I am passionate about AI and continuously working on improving my technical skills through practical projects.</h3>
+# Hi, I'm Mohamed Mahmoud 👋
 
-- 🔭 I’m currently working on **data science**
+**Full-Stack Web Developer** building production-grade web applications for clients across the MENA region and beyond.
 
-- 🌱 I’m currently learning **full-stack AI Diploma**
+I specialize in turning business requirements into scalable, deployed products — from database design to the last pixel of the UI. I work extensively with modern AI-assisted workflows (Cursor, Claude) to ship faster without cutting corners on code quality.
 
-- AI projects [https://github.com/mohamedmahmoud136/-Ai-projects](https://github.com/mohamedmahmoud136/-Ai-projects)
+---
 
-- web projects [https://github.com/mohamedmahmoud136/web-platforms](https://github.com/mohamedmahmoud136/web-platforms)
+### 🛠️ Tech Stack
 
-- 👨‍💻 All of my projects are available at [https://github.com/mohamedmahmoud136](https://github.com/mohamedmahmoud136)
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
-- 💬 Ask me about **python , c++ , ml , data science**
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 
-- 📫 How to reach me **mhemedmahmod553@gmail.com 01011062710**
+**Database & Infra**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1tyoVghYpXt0WxcT_tkbWssyzVQEIOUsj/view?usp=drive_link](https://drive.google.com/file/d/1tyoVghYpXt0WxcT_tkbWssyzVQEIOUsj/view?usp=drive_link)
+**Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mohamed mahmoud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed mahmoud" height="30" width="40" /></a>
-<a href="https://kaggle.com/m7med. mahm0d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="m7med. mahm0d" height="30" width="40" /></a>
-<a href="https://instagram.com/m7med.mahm0d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m7med.mahm0d" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### 🚀 Featured Projects
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedmahmoud136&show_icons=true&locale=en&layout=compact" alt="mohamedmahmoud136" /></p>
+#### 🎓 [Science Smart Portal](https://github.com/mohamedmahmoud136/dr_romany)
+A full-stack university faculty management portal, deployed and live in production.
+- **Stack:** React 19, TypeScript, Vite · Node.js/Express, Drizzle ORM, Neon PostgreSQL
+- **Scale:** 5 user roles, 16 database tables
+- **Deployment:** Hostinger VPS (Ubuntu 24.04), PM2, Nginx, Let's Encrypt SSL
+- **Live:** [sciencesmartportal.online](https://sciencesmartportal.online)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedmahmoud136&" alt="mohamedmahmoud136" /></p>
+#### 🛒 [MVP Shop (Montaseer)](https://github.com/mohamedmahmoud136/MVP-SHOP-Multi-Tenant-SaaS-)
+A multi-tenant SaaS platform that lets e-commerce store owners build and manage their own online stores.
+- **Stack:** Next.js, Express, MongoDB
+- **Features:** Multi-role RBAC (Admin, Owner, Customer, Guest), subscription management, store customization
+
+#### 🤖 [CampusFlow AI](https://github.com/mohamedmahmoud136/campusflow_AI)
+An AI-integrated platform exploring automated academic/campus workflows.
+
+---
+
+### 📫 Let's Work Together
+
+I'm available for freelance projects — full-stack web apps, SaaS platforms, and backend systems.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-mahmoud-037880384/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mhmedmahmod553@gmail.com)
+
+---
+
+### 📊 GitHub Stats
+
+![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedmahmoud136&show_icons=true&theme=default&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedmahmoud136&layout=compact)

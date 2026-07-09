@@ -1,10 +1,10 @@
 
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:0F2027&height=220&section=header&text=Mohamed%20Mahmoud&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descAlignY=58&descSize=20" width="100%"/> <a href="https://www.linkedin.com/in/mohamed-mahmoud-037880384/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:mhmedmahmod553@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/mohamedmahmoud136"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/> </a> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2C9CDB&center=true&vCenter=true&width=600&lines=Building+production-grade+web+apps;React+%7C+Next.js+%7C+Node.js+%7C+NestJS;Turning+client+requirements+into+shipped+products" alt="Typing SVG" /> </div> <br/>
 🧑‍💻 About Me
-🚀 I build full-stack web applications for freelance clients — from database design to deployed production systems.
-🛠️ I turn business requirements into scalable products, using modern AI-assisted workflows (Cursor, Claude) to move fast without sacrificing code quality.
-🌍 Based in Egypt, working with clients across the MENA region and beyond.
-⚡ Also into embedded systems & hardware (Arduino, sensors) on the side.
+ I build full-stack web applications for freelance clients — from database design to deployed production systems.
+ I turn business requirements into scalable products, using modern AI-assisted workflows (Cursor, Claude) to move fast without sacrificing code quality.
+ Based in Egypt, working with clients across the MENA region and beyond.
+ Also into embedded systems & hardware (Arduino, sensors) on the side.
 <br/>
 🧰 Tech Stack
 <div align="center"> <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,vite,nodejs,express,nestjs,postgres,mongodb,git,github,vscode,linux,nginx&theme=dark" /> </div> <br/>
@@ -19,7 +19,7 @@ React 19 TypeScript Node.js PostgreSQL
 Deployed on Hostinger VPS with Nginx + SSL
 🔗 sciencesmartportal.online
 </td> <td width="50%" valign="top">
-🛒 MVP Shop (Montaseer)
+🛒 MVP Shop (Multi-Tenant-SaaS)
 Multi-tenant SaaS platform for e-commerce store builders.
 
 Next.js Express MongoDB

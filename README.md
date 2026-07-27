@@ -47,7 +47,7 @@ Deployed on Hostinger VPS with Nginx + SSL
 
 </td>
 <td width="50%" valign="top">
-🛒 MVP Shop (Montaseer)
+🛒 MVP Shop (Multi-tenant SaaS platform)
 
 Multi-tenant SaaS platform for e-commerce store builders.
 
